@@ -42,29 +42,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[AWS Elemental MediaConvert](https://aws.amazon.com/mediaconvert/)** | File-based video transcoding service with broadcast-grade features, DRM, and multi-format output. | **Basic tier**: from **¥0.0516/normalized minute** (first 100K/month); **Pro tier**: from **¥0.0825/normalized minute** (first 50K/month). Multipliers apply by resolution, codec, and frame rate (e.g., HD AVC 1-pass = 2x; 4K HEVC = 40x+) . | **No free tier** for MediaConvert itself. AWS Free Tier applies to consumed resources (e.g., S3 storage), not transcoding minutes. |
-
-| **[Bitmovin](https://bitmovin.com/)** | Cloud encoding, player, and analytics platform with per-minute pay-as-you-go pricing. | **Pay-as-you-go** with **2,000 free encoding minutes/month**. Unit prices vary by product + CDN/storage costs. Enterprise plans available for negotiated rates . Microsoft Marketplace lists **Enterprise Encoding & Playback at $50,000/year** . | **2,000 free encoding minutes/month** + 10,000 player impressions + 100,000 analytics impressions. **30-day free trial** for new users . |
-
-| **[Cloudinary](https://cloudinary.com/)** | Media optimization platform with image/video transformation, storage, and CDN delivery. | Credit-based pricing across **Free, Plus, Advanced, Advanced Extra, Pro PAYG, and Enterprise** tiers. Usage measured in credits split across transformations, storage, and bandwidth . | **Free plan** available with limited monthly credits (specific allocation not published in search results). Overage handling: account not immediately disabled—upgrade prompts appear near limits . |
-
-| **[Mux](https://www.mux.com/)** | Video API for upload, encoding, storage, and delivery with AI-powered workflows (Mux Robots). | **Pay-as-you-go** with **$20 monthly usage credit**. Storage from **$0.0024/min**; delivery **100K free minutes/month**, then from **$0.0008/min**. **Pre-pay**: Launch $20/mo for $100 credit; Scale $500/mo for $1,000 credit . | **Free plan**: 100K delivery minutes/month, up to 10 videos stored, on-demand only, no credit card required. Pay-as-you-go includes **100K free delivery minutes/month** + $20 credit . |
-
-| **[Telestream Cloud](https://www.telestream.net/)** | Cloud transcoding and QC services (Flip, Timed Text, Quality). | Quote-based per-minute pricing; no public list rates. | No public free tier. Trial available via sales engagement. |
-
-| **[Wowza Transcoder](https://www.wowza.com/)** | Live streaming transcoder for adaptive bitrate delivery. | **Wowza Streaming Engine**: from **$195/month** per instance (annual) or $225/month (monthly) for on-prem; cloud plans from ~$1.50/hour. Transcoder is included in the platform license . | **30-day free trial** for Streaming Engine. No permanent free tier. |
-
-| **[Brightcove Zencoder](https://www.brightcove.com/)** | Cloud video encoding service integrated with Brightcove's video platform. | Quote-based; pricing scales with encoding minutes and output renditions. | No public free tier. Demo/trial via sales engagement. |
-
-| **[Dolby.io Media](https://dolby.io/)** | Media processing APIs for enhance, transcode, and analyze with Dolby-grade quality. | Usage-based per-minute pricing; no public list rates on main pricing page. | **Free tier** available with limited processing minutes (exact allocation requires account signup). |
-
-
+| Product | Description | Company Size (Valuation / Market Cap / Revenue) | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[AWS Elemental MediaConvert](https://aws.amazon.com/mediaconvert/)** | File-based video transcoding service with broadcast-grade features, DRM, and multi-format output. | **~$2.7T Market Cap** / ~$717B Rev (Amazon) | **Basic tier**: from **$0.0075/normalized minute** (first 100K/month); **Professional tier**: from **$0.015/normalized minute** (first 50K/month). Multipliers apply by resolution, codec, and frame rate. | **30-day free trial** via AWS Free Tier ($200 promotional credits on new accounts). MediaConvert itself has no permanent recurring free tier. |
+| **[Dolby.io Media](https://dolby.io/)** | Media processing APIs for enhance, transcode, and analyze with Dolby-grade quality. | **~$5.7B Market Cap** / ~$1.35B Rev (Dolby Laboratories) | Starting at **$0.05/minute** for media processing APIs; interactive streaming from $0.0025/participant-minute. | **200 processing minutes/month free forever** for Media Processing APIs, plus 50 GB/month real-time streaming bandwidth. |
+| **[Cloudinary](https://cloudinary.com/)** | Media optimization platform with image/video transformation, storage, and CDN delivery. | **~$2B Valuation** / ~$100M+ ARR | **Plus plan**: starting at **$89/month** (annual) or **$99/month** (monthly) for 225 credits; Advanced plan from $249/month. | **25 credits/month free forever** (usable for up to 25,000 transformations, 25 GB managed storage, or 25 GB bandwidth; max 100 MB video file size). |
+| **[Mux](https://www.mux.com/)** | Video API for upload, encoding, storage, and delivery with AI-powered workflows. | **~$1B Valuation** / ~$46M ARR | **Pay-as-you-go**: Basic encoding is **$0.00/min**; Plus encoding starts at **$0.025/min**; storage from **$0.0024/min/month**; delivery from **$0.0008/min**. | **Free plan forever**: includes **100,000 delivery minutes/month**, storage for up to 10 on-demand videos, and $20 initial usage credit. |
+| **[Brightcove Zencoder](https://www.brightcove.com/)** | Cloud video encoding service integrated with Brightcove's video platform. | **~$233M Acquisition Valuation** / ~$190M Rev (Brightcove) | **Pay-as-you-go**: starts at **$0.05/minute** of output video; monthly subscription volume tiers drop to **$0.02/minute**. | **Free integration trial**: full File Transcoding API access with test job limits and API rate caps for development and testing. |
+| **[Telestream Cloud](https://www.telestream.net/)** | Cloud transcoding and QC services (Flip, Timed Text, Quality). | **~$150M–$200M+ Est. Rev** (PE-backed by Genstar Capital) | **Telestream Cloud Flip**: pay-as-you-go starting tier from **$0.01/minute** base encoding, scaling by resolution/codecs. | **30-day free trial** with **$100–$200 in free usage credits** to test transcoding pipelines. |
+| **[Bitmovin](https://bitmovin.com/)** | Cloud encoding, player, and analytics platform with per-minute pay-as-you-go pricing. | **~$100M–$200M Est. Valuation** / ~$22M ARR | **Starter pay-as-you-go**: **$0.02/additional minute** for baseline SD encoding beyond monthly free quota; Enterprise plans from $50,000/year. | **2,000 encoding minutes/month free forever**, plus 10,000 player impressions and 100,000 analytics impressions; includes 30-day trial. |
+| **[Wowza Transcoder](https://www.wowza.com/)** | Live streaming transcoder for adaptive bitrate delivery. | **~$15M–$30M Est. Rev** (PE-backed by Clearhaven Partners) | **Wowza Streaming Engine**: from **$195/month** (annual) or **$225/month** (monthly) per instance; cloud pay-as-you-go from **$1.50/hour**. | **30-day free trial** for Wowza Streaming Engine with full transcoding feature evaluation. No permanent free tier. |
 
 ## Open-Source GitHub Projects
 

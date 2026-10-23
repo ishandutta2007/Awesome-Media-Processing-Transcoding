@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Media-Processing-Transcoding/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Media-Processing-Transcoding?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Media-Processing-Transcoding/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Media-Processing-Transcoding?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Media-Processing-Transcoding/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Media-Processing-Transcoding?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Media-Processing-Transcoding/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Media-Processing-Transcoding?color=blue" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Media-Processing-Transcoding/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
@@ -65,58 +65,58 @@ The sector exhibits **moderate fragmentation with strong foundational concentrat
 
 *Ranked strictly by GitHub stargazers count (descending).*
 
-- **[OBS Studio](https://github.com/obsproject/obs-studio)** [![GitHub Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white)](https://github.com/obsproject/obs-studio/stargazers)  
+- **[OBS Studio](https://github.com/obsproject/obs-studio)** [![GitHub_Stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white)](https://github.com/obsproject/obs-studio/stargazers)  
   🎥 **Live Video Production & Real-Time Encoding.** Free and open-source software for video recording and live streaming. Features real-time source and device capture, scene composition, encoding via hardware engines (NVENC, AMD AMF, Intel QuickSync), audio mixing, and live streaming output across RTMP, SRT, and WebRTC protocols.
 
-- **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
+- **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub_Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)  
   ⚡ **The Foundational Multimedia Engine.** The industry standard cross-platform solution to record, convert, transcode, mux, demux, stream, filter, and play almost any media format. Powers virtually every commercial transcoding service and video pipeline worldwide.
 
-- **[Jellyfin](https://github.com/jellyfin/jellyfin)** [![GitHub Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers)  
+- **[Jellyfin](https://github.com/jellyfin/jellyfin)** [![GitHub_Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers)  
   🍿 **Self-Hosted Media Server with On-The-Fly Transcoding.** The volunteer-built media system that puts you in control of managing and streaming media. Features dynamic on-demand transcoding using hardware acceleration (VA-API, NVENC, QSV) to adjust media resolution and bitrates dynamically for any client device.
 
-- **[LosslessCut](https://github.com/mifi/lossless-cut)** [![GitHub Stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)  
+- **[LosslessCut](https://github.com/mifi/lossless-cut)** [![GitHub_Stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)  
   ✂️ **Ultrafast Lossless Video & Audio Trimming.** The swiss army knife for lossless trimming, cutting, and slicing of video and audio files without re-encoding or losing quality, powered directly by Chromium and FFmpeg.
 
-- **[HandBrake](https://github.com/HandBrake/HandBrake)** [![GitHub Stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social&color=white)](https://github.com/HandBrake/HandBrake/stargazers)  
+- **[HandBrake](https://github.com/HandBrake/HandBrake)** [![GitHub_Stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social&color=white)](https://github.com/HandBrake/HandBrake/stargazers)  
   🎛️ **The Preset-Driven Open-Source Video Transcoder.** An opinionated, multiplatform video transcoder supporting multi-pass encoding, AV1, HEVC, H.264, and community-tuned hardware presets for batch conversion workflows.
 
-- **[Streamlink](https://github.com/streamlink/streamlink)** [![GitHub Stars](https://img.shields.io/github/stars/streamlink/streamlink?style=social&color=white)](https://github.com/streamlink/streamlink/stargazers)  
+- **[Streamlink](https://github.com/streamlink/streamlink)** [![GitHub_Stars](https://img.shields.io/github/stars/streamlink/streamlink?style=social&color=white)](https://github.com/streamlink/streamlink/stargazers)  
   📡 **Live Stream Pipe & Extract Utility.** Command-line utility that extracts live video streams from various services and pipes them into a custom video player or media processing pipeline.
 
-- **[FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)** [![GitHub Stars](https://img.shields.io/github/stars/BtbN/FFmpeg-Builds?style=social&color=white)](https://github.com/BtbN/FFmpeg-Builds/stargazers)  
+- **[FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)** [![GitHub_Stars](https://img.shields.io/github/stars/BtbN/FFmpeg-Builds?style=social&color=white)](https://github.com/BtbN/FFmpeg-Builds/stargazers)  
   📦 **Automated Bleeding-Edge FFmpeg CI Builds.** Daily and release automated builds of FFmpeg with full hardware acceleration libraries enabled for Linux and Windows.
 
-- **[OpenH264](https://github.com/cisco/openh264)** [![GitHub Stars](https://img.shields.io/github/stars/cisco/openh264?style=social&color=white)](https://github.com/cisco/openh264/stargazers)  
+- **[OpenH264](https://github.com/cisco/openh264)** [![GitHub_Stars](https://img.shields.io/github/stars/cisco/openh264?style=social&color=white)](https://github.com/cisco/openh264/stargazers)  
   🛡️ **Cisco's H.264 / AVC Codec Library.** Open-source codec library that supports H.264 encoding and decoding for real-time video communications, WebRTC applications, and low-latency streaming.
 
-- **[Ant Media Server](https://github.com/ant-media/Ant-Media-Server)** [![GitHub Stars](https://img.shields.io/github/stars/ant-media/Ant-Media-Server?style=social&color=white)](https://github.com/ant-media/Ant-Media-Server/stargazers)  
+- **[Ant Media Server](https://github.com/ant-media/Ant-Media-Server)** [![GitHub_Stars](https://img.shields.io/github/stars/ant-media/Ant-Media-Server?style=social&color=white)](https://github.com/ant-media/Ant-Media-Server/stargazers)  
   🛰️ **Sub-Second Real-Time WebRTC Streaming & Transcoding.** Ultra-low latency streaming engine supporting WebRTC (~0.5s), CMAF, HLS, RTMP, and adaptive bitrate transcoding.
 
-- **[Tdarr](https://github.com/HaveAGitGat/Tdarr)** [![GitHub Stars](https://img.shields.io/github/stars/HaveAGitGat/Tdarr?style=social&color=white)](https://github.com/HaveAGitGat/Tdarr/stargazers)  
+- **[Tdarr](https://github.com/HaveAGitGat/Tdarr)** [![GitHub_Stars](https://img.shields.io/github/stars/HaveAGitGat/Tdarr?style=social&color=white)](https://github.com/HaveAGitGat/Tdarr/stargazers)  
   🤖 **Distributed Media Transcode Automation.** An automated transcode processing engine that coordinates distributed worker nodes across Windows, macOS, Linux, and Docker using FFmpeg and HandBrake.
 
-- **[rav1e](https://github.com/xiph/rav1e)** [![GitHub Stars](https://img.shields.io/github/stars/xiph/rav1e?style=social&color=white)](https://github.com/xiph/rav1e/stargazers)  
+- **[rav1e](https://github.com/xiph/rav1e)** [![GitHub_Stars](https://img.shields.io/github/stars/xiph/rav1e?style=social&color=white)](https://github.com/xiph/rav1e/stargazers)  
   ⚡ **The Fast and Safe AV1 Encoder.** The cleanest and fastest AV1 encoder written from scratch in Rust, backed by the Xiph.Org Foundation and Alliance for Open Media (AOMedia).
 
-- **[VidGear](https://github.com/abhiTronix/vidgear)** [![GitHub Stars](https://img.shields.io/github/stars/abhiTronix/vidgear?style=social&color=white)](https://github.com/abhiTronix/vidgear/stargazers)  
+- **[VidGear](https://github.com/abhiTronix/vidgear)** [![GitHub_Stars](https://img.shields.io/github/stars/abhiTronix/vidgear?style=social&color=white)](https://github.com/abhiTronix/vidgear/stargazers)  
   🐍 **High-Performance Video Processing Python Framework.** Wraps FFmpeg and OpenCV with an ultra-lightweight, multi-threaded API for real-time video capture, transcoding, streaming, and computer vision pipelines.
 
-- **[GPAC](https://github.com/gpac/gpac)** [![GitHub Stars](https://img.shields.io/github/stars/gpac/gpac?style=social&color=white)](https://github.com/gpac/gpac/stargazers)  
+- **[GPAC](https://github.com/gpac/gpac)** [![GitHub_Stars](https://img.shields.io/github/stars/gpac/gpac?style=social&color=white)](https://github.com/gpac/gpac/stargazers)  
   🧩 **Modular Multimedia Framework & MP4Box.** An advanced multimedia open-source framework featuring MP4Box for packaging, inspecting, and segmenting DASH/HLS streams and custom filtering pipelines.
 
-- **[Shaka Packager](https://github.com/shaka-project/shaka-packager)** [![GitHub Stars](https://img.shields.io/github/stars/shaka-project/shaka-packager?style=social&color=white)](https://github.com/shaka-project/shaka-packager/stargazers)  
+- **[Shaka Packager](https://github.com/shaka-project/shaka-packager)** [![GitHub_Stars](https://img.shields.io/github/stars/shaka-project/shaka-packager?style=social&color=white)](https://github.com/shaka-project/shaka-packager/stargazers)  
   🔒 **DASH, HLS & DRM Media Packaging Engine.** Google's media packaging toolkit for encrypting and preparing VOD and live content for adaptive bitrate streaming with Widevine, PlayReady, and FairPlay DRM support.
 
-- **[Unmanic](https://github.com/Unmanic/unmanic)** [![GitHub Stars](https://img.shields.io/github/stars/Unmanic/unmanic?style=social&color=white)](https://github.com/Unmanic/unmanic/stargazers)  
+- **[Unmanic](https://github.com/Unmanic/unmanic)** [![GitHub_Stars](https://img.shields.io/github/stars/Unmanic/unmanic?style=social&color=white)](https://github.com/Unmanic/unmanic/stargazers)  
   🔄 **Automated Music & Video Library Transcoder.** Post-processor transcode manager that detects video files, extracts audio, removes unwanted audio tracks, and encodes videos to modern standards automatically.
 
-- **[Video Transcoding (Lisa Melton)](https://github.com/lisamelton/video_transcoding)** [![GitHub Stars](https://img.shields.io/github/stars/lisamelton/video_transcoding?style=social&color=white)](https://github.com/lisamelton/video_transcoding/stargazers)  
+- **[Video Transcoding (Lisa Melton)](https://github.com/lisamelton/video_transcoding)** [![GitHub_Stars](https://img.shields.io/github/stars/lisamelton/video_transcoding?style=social&color=white)](https://github.com/lisamelton/video_transcoding/stargazers)  
   🛠️ **CLI Video Transcoding Scripts & Presets.** Curated command-line utilities and batch scripts built on FFmpeg and HandBrake to transcode video collections into high-quality, lightweight MP4/MKV assets.
 
-- **[libavif](https://github.com/AOMediaCodec/libavif)** [![GitHub Stars](https://img.shields.io/github/stars/AOMediaCodec/libavif?style=social&color=white)](https://github.com/AOMediaCodec/libavif/stargazers)  
+- **[libavif](https://github.com/AOMediaCodec/libavif)** [![GitHub_Stars](https://img.shields.io/github/stars/AOMediaCodec/libavif?style=social&color=white)](https://github.com/AOMediaCodec/libavif/stargazers)  
   🖼️ **AV1 Image File Format (AVIF) Reference Library.** Portable C implementation of the AVIF image file format supporting still images, sequences, and alpha transparency encoding.
 
-- **[BMF (BabitMF)](https://github.com/BabitMF/bmf)** [![GitHub Stars](https://img.shields.io/github/stars/BabitMF/bmf?style=social&color=white)](https://github.com/BabitMF/bmf/stargazers)  
+- **[BMF (BabitMF)](https://github.com/BabitMF/bmf)** [![GitHub_Stars](https://img.shields.io/github/stars/BabitMF/bmf?style=social&color=white)](https://github.com/BabitMF/bmf/stargazers)  
   🚀 **GPU-Accelerated Multimodal Video Processing Engine.** ByteDance's cross-platform, modular video processing framework with heterogeneous GPU acceleration, multi-language bindings (C++, Python, Go), and AI inference integration.
 
 ---
